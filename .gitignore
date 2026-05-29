@@ -1,0 +1,29 @@
+# Virtual environment
+venv/
+ENV/
+env/
+
+# Python caching
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Operating system files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Project-specific caches & directories
+.claude/
+catboost_info/
+
+# Machine Learning models (heavy binaries, checkpoints and logs)
+traffic_prediction/models/*.pkl
+traffic_prediction/models/*.npy
+traffic_prediction/models/*.png
+traffic_prediction/models/checkpoints/

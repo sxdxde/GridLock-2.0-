@@ -1,0 +1,12 @@
+{
+  "depth": 8,
+  "l2_leaf_reg": 1.185260448662222,
+  "bagging_temperature": 0.9699098521619943,
+  "iterations": 120,
+  "learning_rate": 0.05,
+  "random_seed": 42,
+  "eval_metric": "RMSE",
+  "od_type": "Iter",
+  "od_wait": 100,
+  "verbose": false
+}

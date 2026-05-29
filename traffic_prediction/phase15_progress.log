@@ -1,0 +1,9 @@
+[15:43:43] Phase 15 runner started
+[15:43:43] Found 8 Phase 15 code cells: [103, 104, 105, 106, 107, 108, 109, 110]
+[15:43:43] --- Cell 1/8 (nb_idx=103): # 15.0 — Day-split analysis + yesterday-demand lookup
+[15:43:44]     OK  (0s)
+[15:43:44] --- Cell 2/8 (nb_idx=104): # 15.1 — V3 feature matrix (fixed)
+[15:43:45]     OK  (1s)
+[15:43:45] --- Cell 3/8 (nb_idx=105): # 15.2 — DemandNet: entity-embedding MLP with residual block
+[15:43:45]     OK  (0s)
+[15:43:45] --- Cell 4/8 (nb_idx=106): # 15.3 — DemandNet training  (temporal split: train=day48, v

@@ -1,0 +1,12 @@
+{
+  "learning_rate": 0.03574712922600244,
+  "max_depth": 12,
+  "subsample": 0.8659969709057025,
+  "colsample_bytree": 0.7993292420985183,
+  "n_estimators": 120,
+  "tree_method": "hist",
+  "random_state": 42,
+  "n_jobs": -1,
+  "early_stopping_rounds": 100,
+  "eval_metric": "rmse"
+}

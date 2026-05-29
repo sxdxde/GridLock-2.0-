@@ -1,0 +1,45 @@
+=== SHAPES ===
+Train: (77299, 11)  Test: (41778, 10)
+
+=== TRAIN dtypes ===
+Index              int64
+geohash              str
+day                int64
+timestamp            str
+demand           float64
+RoadType             str
+NumberofLanes      int64
+LargeVehicles        str
+Landmarks            str
+Temperature      float64
+Weather              str
+
+=== NULL COUNTS (train) ===
+Index               0
+geohash             0
+day                 0
+timestamp           0
+demand              0
+RoadType          600
+NumberofLanes       0
+LargeVehicles       0
+Landmarks           0
+Temperature      2495
+Weather           797
+
+=== NULL COUNTS (test) ===
+Index               0
+geohash             0
+day                 0
+timestamp           0
+RoadType          324
+NumberofLanes       0
+LargeVehicles       0
+Landmarks           0
+Temperature      1349
+Weather           431
+
+=== DEMAND STATS ===
+mean=0.093942  median=0.047760  std=0.142191
+skew=3.7284  kurtosis=17.3308
+min=0.000001  max=1.000000
