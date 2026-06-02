@@ -1,5 +1,5 @@
 # Traffic Management & Travel Demand Forecast
-### Flipkart Grid 6.0 — Competition Solution
+### Flipkart Grid 6.0 — Competition Solutions
 
 **Final Leaderboard Score: 91.50 / 100**  
 **Metric:** `max(0, 100 × R²)`  
